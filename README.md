@@ -7,5 +7,7 @@ Models which are used here for expermient-
   2. ResNet 50
   3. Inception V3
   4. U-Net
-  5. Convolutional Autoencoder.
+  5. Convolutional Autoencoder
+  
+  Hyperparameter tuning and model structure has been redefined to improve the performance
   
