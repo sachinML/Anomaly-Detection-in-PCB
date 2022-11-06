@@ -18,5 +18,8 @@ Models which are used here for expermient-
  ## ResNet 50: 
  Trained and changed modified model architecture along with hyperparameter tuning and Got the F1 score of 0.837
  
+ ## U-Net: 
+ It has 4 layer encoder and 4 layer decoder and Trained it with hyperparameter tuning and Got the Dice score of 0.66
+ 
 
   
