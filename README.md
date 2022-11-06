@@ -9,5 +9,6 @@ Models which are used here for expermient-
   4. U-Net
   5. Convolutional Autoencoder
   
-  Hyperparameter tuning and model structure has been redefined to improve the performance
+ ## Base CNN: 
+ used 7 layer CNN channel with 2 dense layer at the end with hyperparameter tuning. got the F1 score of 0.85
   
