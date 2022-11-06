@@ -15,5 +15,8 @@ Models which are used here for expermient-
  ## Inception V3: 
  Trained and done the hyperparameter tuning and Got the F1 score of 0.82
  
+ ## ResNet 50: 
+ Trained and changed modified model architecture along with hyperparameter tuning and Got the F1 score of 0.837
+ 
 
   
