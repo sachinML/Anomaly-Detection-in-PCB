@@ -4,11 +4,16 @@ It Improves the performance of the PCB false alarm system by improving the F1 sc
 
 Models which are used here for expermient-
   1. Base CNN
-  2. ResNet 50
-  3. Inception V3
+  2. Inception V3
+  3. ResNet 50
   4. U-Net
   5. Convolutional Autoencoder
   
  ## Base CNN: 
  used 7 layer CNN channel with 2 dense layer at the end with hyperparameter tuning. got the F1 score of 0.85
+ 
+ ## Inception V3: 
+ Trained and done the hyperparameter tuning and Got the F1 score of 0.82
+ 
+
   
