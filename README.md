@@ -1,5 +1,5 @@
 # PCB_Anomaly_Detection
-This is the project on detecting and classifying the anomaies in printed circuit board (PCB).
+Detecting and classifying the Anomaies in printed circuit board (PCB).
 It Improves the performance of the PCB false alarm system by improving the F1 score using the various Deep Learning and Computer Vision methods.
 
 Models which are used here for expermient-
@@ -24,6 +24,8 @@ Models which are used here for expermient-
  ## Convolutional Autoencoder: 
     1. It has 4 layer encoder and 4 layer decoder and Trained it with hyperparameter tuning and Got the F1 score of 0.8
     2. changed the model structure on latent side in the middle by adding a network and trained it and got the F1 score of 0.94
+    
+
  
  
 
