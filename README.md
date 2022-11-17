@@ -25,6 +25,13 @@ Models which are used here for expermient-
     1. It has 4 layer encoder and 4 layer decoder and Trained it with hyperparameter tuning and Got the F1 score of 0.8
     2. changed the model structure on latent side in the middle by adding a network and trained it and got the F1 score of 0.94
     
+ Defect_Image_Reconstruction-
+ ![plot](./Autoencoder/Defect_Image_Reconstruction.png)
+ 
+ False_Image_Reconstruction-
+ ![plot](./Autoencoder/False_Image_Reconstruction.png)
+    
+    
 
  
  
