@@ -26,9 +26,11 @@ Models which are used here for expermient-
     2. changed the model structure on latent side in the middle by adding a network and trained it and got the F1 score of 0.94
     
  Defect_Image_Reconstruction-
+ 
  ![plot](./Autoencoder/Defect_Image_Reconstruction.png)
  
  False_Image_Reconstruction-
+ 
  ![plot](./Autoencoder/False_Image_Reconstruction.png)
     
     
