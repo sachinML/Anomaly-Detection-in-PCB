@@ -2,7 +2,7 @@
 Detecting and classifying the Anomaies in printed circuit board (PCB).
 It Improves the performance of the PCB false alarm system by improving the F1 score using the various Deep Learning and Computer Vision methods.
 
-Models which are used here for expermient-
+Models which are used here for expermient:
   1. Base CNN
   2. Inception V3
   3. ResNet 50
